@@ -1,2 +1,2 @@
 # vigenere-cipher-crack
-Crack vigenere cipher when keylen is 1
+Crack vigenere cipher when key length is 1
